@@ -1,2 +1,3 @@
-# feb_7th_test
+# Latade's GIT Trial
+
 Design management lecture...
